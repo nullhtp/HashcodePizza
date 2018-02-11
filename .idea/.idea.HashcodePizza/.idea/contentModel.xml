@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_HashcodePizza.-359693669.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="HashcodePizza" t="IncludeRecursive">
+        <e p="Data" t="Include">
+          <e p="big.in" t="Include" />
+          <e p="example.in" t="Include" />
+          <e p="medium.in" t="Include" />
+          <e p="small.in" t="Include" />
+        </e>
+        <e p="HashcodePizza.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="example.out" t="Include" />
+        <e p="medium.out" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="HashcodePizza.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="small.out" t="Include" />
+      </e>
+      <e p="HashcodePizza.sln" t="IncludeFlat" />
+      <e p="PizzaLibrary" t="IncludeRecursive">
+        <e p="Entities" t="Include">
+          <e p="Coords.cs" t="Include" />
+          <e p="CuttedPizza.cs" t="Include" />
+          <e p="IngridientType.cs" t="Include" />
+          <e p="Pizza.cs" t="Include" />
+          <e p="PizzaFileData.cs" t="Include" />
+          <e p="Slice.cs" t="Include" />
+        </e>
+        <e p="Helpers" t="Include">
+          <e p="PizzaHelper.cs" t="Include" />
+        </e>
+        <e p="PizzaLibrary.csproj" t="IncludeRecursive" />
+        <e p="Slicer.cs" t="Include" />
+        <e p="Validators" t="Include">
+          <e p="PizzaValidator.cs" t="Include" />
+          <e p="SliceValidator.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="PizzaLibrary.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
